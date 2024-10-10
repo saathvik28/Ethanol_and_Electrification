@@ -14,5 +14,5 @@ It focuses on Miles Per Gallon (MPG) for traditional vehicles and Miles Per Gall
   ```
 
 # Files
-- **StepByStep_Fuel_Efficiency_Comparison.ipynb**: An interactive jupyter notebook to execute the data scraping, analysis and visualisation processes step-by-step
-- **visualisation_diagrams**: A folder containing the respective visualisation bar plots for fuel efficiency comparisons of the various fuel types for quick reference
+- **StepByStep_Fuel_Efficiency_Comparison.ipynb**: An interactive jupyter notebook that can be downloaded locally to execute the data scraping, analysis and visualisation processes step-by-step
+- **visualisation_diagrams**: A folder containing the respective visualisation bar plots that can be downloaded for fuel efficiency comparisons of the various fuel types for quick reference
