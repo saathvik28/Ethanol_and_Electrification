@@ -11,6 +11,7 @@ It focuses on Miles Per Gallon (MPG) for traditional vehicles and Miles Per Gall
 **Run this on your computer's command line for installation/updates)**
   ```bash
   pip install requests beautifulsoup4 pandas matplotlib
+  ```
 
 # Files
 - **StepByStep_Fuel_Efficiency_Comparison.ipynb**: An interactive jupyter notebook to execute the data scraping, analysis and visualisation processes step-by-step
