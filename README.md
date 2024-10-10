@@ -5,3 +5,6 @@ This project analyzes the impact of electrification on the fuel efficiency of ca
 - **Data Scraping**: `requests` and `BeautifulSoup`
 - **Data Analysis**: `pandas`(specifically DataFrames and `BytesIO`)
 - **Data Visualisation**: `pyplot`
+
+# Files
+- **StepByStep_Fuel_Efficiency_Comparison.ipynd**: An interactive jupyter notebook to execute the data scaprin, analysis and visualisation processes step-by-step
