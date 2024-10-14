@@ -7,8 +7,8 @@ It focuses on comparing Miles Per Gallon(MPG)[^1] and Miles Per Gallon equivalen
 [^2]: MPGe(Miles Per Gallon equivalent) msasures how many miles a vehicle can travel using the ernrgy equivalent of one gallon of fuel, used in this project for plug-in hybrids and electric vehicles.
 # Modules/Dependencies used
 - **Data Scraping**: `requests` and `BeautifulSoup`
-- **Data Cleaning/Analysis**: `pandas`(specifically DataFrames and `BytesIO`)
-- **Data Visualisation**: `pyplot`
+- **Data Cleaning/Analysis**: `pandas` and `io`(specifically `DataFrame` and `BytesIO`)
+- **Data Visualisation**: `matplotlib.pyplot`
 
 **Run this on your computer's command line for installation/update of modules**
   ```bash
