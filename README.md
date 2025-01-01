@@ -18,3 +18,5 @@ It focuses on comparing Miles Per Gallon(MPG)[^1] and Miles Per Gallon equivalen
 # Files
 - **StepByStep_Fuel_Efficiency_Comparison.ipynb**: An interactive jupyter notebook that can be downloaded locally to execute the data scraping, analysis and visualisation processes step-by-step
 - **visualisation_diagrams**: A folder containing the respective visualisation bar plots that can be downloaded showing fuel efficiency comparisons across the various fuel types and vehicle classes for quick reference
+  ## Bonus
+    - **Electrification_Correlation.ipynb**: The second part of the data analysis project, focusing on the trends of how fuel efficiency varies with the degree of electrification of cars in 2 different vehicle classes in different driving categories. It requires the **StepByStep_Fuel_Efficiency_Comparison.ipynb** as a dependency to run properly.
